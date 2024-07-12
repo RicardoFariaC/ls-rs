@@ -1,4 +1,4 @@
-use echo_reimpl::ls::{self, DirArg};
+use ls_rs::ls::{self, DirArg};
 use std::process;
 
 fn main() {
